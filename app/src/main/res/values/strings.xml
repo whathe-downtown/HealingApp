@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealingApp</string>
+    <string name="app_home_name">Sleep</string>
+    <string name="text_home">홈</string>
+    <string name="text_settings">설정</string>
+    <string name="text_search">검색</string>
+    <string name="home_sleep">숙면</string>
+    <string name="home_meditation">명상</string>
+    <string name="home_mind">심리</string>
+    <string name="home_music">음악</string>
+
+</resources>
